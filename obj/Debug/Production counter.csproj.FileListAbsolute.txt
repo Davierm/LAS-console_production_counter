@@ -1,0 +1,10 @@
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\obj\Debug\Production counter.csprojAssemblyReference.cache
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\bin\Debug\LAS Konzole zbývajícího času produkce.exe.config
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\bin\Debug\LAS Konzole zbývajícího času produkce.exe.manifest
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\bin\Debug\LAS Konzole zbývajícího času produkce.application
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\bin\Debug\LAS Konzole zbývajícího času produkce.exe
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\bin\Debug\LAS Konzole zbývajícího času produkce.pdb
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\obj\Debug\LAS Konzole zbývajícího času produkce.exe.manifest
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\obj\Debug\LAS Konzole zbývajícího času produkce.application
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\obj\Debug\LAS Konzole zbývajícího času produkce.exe
+C:\Users\DAVIERM\Desktop\Production counter\Production counter\obj\Debug\LAS Konzole zbývajícího času produkce.pdb
